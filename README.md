@@ -1,1 +1,2 @@
-# rsschool-2019Q1-html-css
+Nikita Turlyko  
+HTML CSS Basics: https://www.codecademy.com/users/nikita.turlyko0493416632/achievements
